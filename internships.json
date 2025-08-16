@@ -1,0 +1,88 @@
+[
+  {
+    "_id": {
+      "$oid": "682308ed413f7a257b5c9ff2"
+    },
+    "title": "Web Developer Internship",
+    "mode": "Online",
+    "type": "Internship",
+    "sector": "Private",
+    "category": "Software",
+    "stipend": "Unpaid",
+    "duration": "2 Months",
+    "apply_by": "15 May 2025",
+    "company": "Robokwik",
+    "role": "Web Developer Intern",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+    "_id": "69f6a727-0992-4520-948c-eae95ed16a50",
+    "title": "Data Analyst Intern Internship",
+    "mode": "Online",
+    "location": "Mumbai",
+    "type": "Internship",
+    "sector": "Government",
+    "category": "Hardware",
+    "stipend": "Paid",
+    "duration": "6 Months",
+    "apply_by": "22 Jun 2025",
+    "company": "DataZen",
+    "role": "Mobile Developer Intern",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "React",
+      "MongoDB"
+    ]
+  },
+  {
+    "_id": "4b86bcfe-ecf1-45a9-8791-f1ecd98feb45",
+    "title": "Web Developer Intern Internship",
+    "mode": "Offline",
+    "location": "Chennai",
+    "type": "Internship",
+    "sector": "Private",
+    "category": "Hardware",
+    "stipend": "Unpaid",
+    "duration": "4 Months",
+    "apply_by": "28 May 2025",
+    "company": "ByteWorks",
+    "role": "Web Developer Intern",
+    "skills": [
+      "CSS",
+      "Node.js",
+      "Python",
+      "MongoDB"
+    ]
+  },
+  {
+    "_id": "fff403c9-eb7b-4a4b-8a24-3d795147ef87",
+    "title": "Web Developer Intern Internship",
+    "mode": "Online",
+    "location": "Kolkata",
+    "type": "Internship",
+    "sector": "Private",
+    "category": "Hardware",
+    "stipend": "Unpaid",
+    "duration": "5 Months",
+    "apply_by": "15 Jun 2025",
+    "company": "DataZen",
+    "role": "Web Developer Intern",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "description": "This internship provides hands-on experience in the selected domain.",
+    "who_can_apply": [
+      "from any location",
+      "any specialization",
+      "available for full duration"
+    ]
+  }
+]

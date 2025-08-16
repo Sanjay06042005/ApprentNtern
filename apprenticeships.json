@@ -1,0 +1,80 @@
+[
+  {
+    "_id": {
+      "$oid": "682308ed413f7a257b5c9004"
+    },
+    "title": "Backend Developer Apprentice",
+    "location": "Mumbai",
+    "type": "Apprenticeship",
+    "sector": "Private",
+    "category": "Software",
+    "stipend": "Fixed",
+    "duration": "6 Months",
+    "apply_by": "22 May 2025",
+    "company": "CodeBase Pvt Ltd",
+    "role": "Backend Developer Apprentice",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL"
+    ],
+    "description": "Learn enterprise backend development in an agile environment.",
+    "who_can_apply": [
+      "CS students",
+      "Java background",
+      "available for 6 months"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "682308ed413f7a257b5c9009"
+    },
+    "title": "Cybersecurity Apprentice",
+    "location": "Kolkata",
+    "type": "Apprenticeship",
+    "sector": "Government",
+    "category": "Software",
+    "stipend": "Fixed",
+    "duration": "3 Months",
+    "apply_by": "26 May 2025",
+    "company": "CERT-IN",
+    "role": "Cybersecurity Intern",
+    "skills": [
+      "Kali Linux",
+      "Vulnerability Assessment",
+      "Firewalls"
+    ],
+    "description": "Learn ethical hacking and digital forensics under government cybersecurity teams.",
+    "who_can_apply": [
+      "Security enthusiasts",
+      "available for 3 months",
+      "based in Kolkata"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "682308ed413f7a257b5c9009"
+    },
+    "title": "Cybersecurity Apprentice",
+    "location": "Kolkata",
+    "type": "Apprenticeship",
+    "sector": "Government",
+    "category": "Software",
+    "stipend": "Fixed",
+    "duration": "3 Months",
+    "apply_by": "26 May 2025",
+    "company": "CERT-IN",
+    "role": "Cybersecurity Intern",
+    "skills": [
+      "Kali Linux",
+      "Vulnerability Assessment",
+      "Firewalls"
+    ],
+    "description": "Learn ethical hacking and digital forensics under government cybersecurity teams.",
+    "who_can_apply": [
+      "Security enthusiasts",
+      "available for 3 months",
+      "based in Kolkata"
+    ]
+  }
+]
